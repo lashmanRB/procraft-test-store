@@ -1,0 +1,166 @@
+{
+  "schema": 1,
+  "store": {
+    "name": "Test Store",
+    "publisher": "lashman",
+    "updated": "2026-11-24"
+  },
+  "items": [
+    {
+      "id": "rsco.broken-inkers",
+      "kind": "brushset",
+      "name": "Broken Inkers",
+      "publisher": "RSCO",
+      "version": "1.0.0",
+      "description": "Worn, broken ink line brushes for rough inking.",
+      "category": "Brushes",
+      "file": "https://raw.githubusercontent.com/lashmanRB/procraft-test-store/main/assets/RSCO_Broken_Inkers.brushset",
+      "bytes": 2353564,
+      "sha256": "5dc111996a0e9fcd6b25e08df0c1f21257e73909eb84ea3965e9d28ae932c850"
+    },
+    {
+      "id": "rsco.dead-pen",
+      "kind": "brushset",
+      "name": "Dead Pen",
+      "publisher": "RSCO",
+      "version": "1.0.0",
+      "description": "Dry, failing pen lines with gaps and drag.",
+      "category": "Brushes",
+      "file": "https://raw.githubusercontent.com/lashmanRB/procraft-test-store/main/assets/RSCO_Dead_Pen.brushset",
+      "bytes": 7687128,
+      "sha256": "21ee99dcffdc963a055e05285a95b0872124a096eb85edb5def8c78248a36252"
+    },
+    {
+      "id": "rsco.industry-press",
+      "kind": "brushset",
+      "name": "Industry Press",
+      "publisher": "RSCO",
+      "version": "1.0.0",
+      "description": "Heavy press textures for industrial linework.",
+      "category": "Brushes",
+      "file": "https://raw.githubusercontent.com/lashmanRB/procraft-test-store/main/assets/RSCO_IndustryPress.brushset",
+      "bytes": 3773572,
+      "sha256": "30d6e177eea0e8129a13564dc895c559e0b697d4c244e42123b52540a67be292"
+    },
+    {
+      "id": "rsco.inferno-spatter",
+      "kind": "brushset",
+      "name": "Inferno Ink Spatter Stamps",
+      "publisher": "RSCO",
+      "version": "1.0.0",
+      "description": "Ink spatter stamps for splashes and speckle.",
+      "category": "Brushes",
+      "file": "https://raw.githubusercontent.com/lashmanRB/procraft-test-store/main/assets/RSCO_Inferno_Ink_Spatter_Stamps.brushset",
+      "bytes": 712823,
+      "sha256": "fccc262c3ccb425a64d0d9a793cb72cd71f4c48467f43e6d36b82cb1b1765a87"
+    },
+    {
+      "id": "rsco.ink-bleed",
+      "kind": "brushset",
+      "name": "Ink Bleed",
+      "publisher": "RSCO",
+      "version": "1.0.0",
+      "description": "Bleeding ink edges for wet paper texture.",
+      "category": "Brushes",
+      "file": "https://raw.githubusercontent.com/lashmanRB/procraft-test-store/main/assets/RSCO_Ink_Bleed.brushset",
+      "bytes": 71715558,
+      "sha256": "69420990dfb36089516cf8d01f3d7828661182a99d6091c0131cbac9cf7d726f"
+    },
+    {
+      "id": "rsco.ink-spray",
+      "kind": "brushset",
+      "name": "Ink Spray",
+      "publisher": "RSCO",
+      "version": "1.0.0",
+      "description": "Spray and mist inks for soft edges.",
+      "category": "Brushes",
+      "file": "https://raw.githubusercontent.com/lashmanRB/procraft-test-store/main/assets/RSCO_Ink_Spray.brushset",
+      "bytes": 4821933,
+      "sha256": "24e6efdbb45948756c441a75f4d80a915bb225196d65d3968dab0ae7aa45ef68"
+    },
+    {
+      "id": "rsco.monomagic-line-builders",
+      "kind": "brushset",
+      "name": "MonoMagic Line Builders",
+      "publisher": "RSCO",
+      "version": "1.0.0",
+      "description": "Line building brushes with a mostly monochrome feel.",
+      "category": "Brushes",
+      "file": "https://raw.githubusercontent.com/lashmanRB/procraft-test-store/main/assets/RSCO_MonoMagic_Line_Builders.brushset",
+      "bytes": 8779382,
+      "sha256": "ec48bfef3eabda9065aa2b079aebaa56216e2699a2f55c143e6b55a756e59022"
+    },
+    {
+      "id": "papers.cardstock-cover",
+      "kind": "asset pack",
+      "name": "Cardstock Cover Stock",
+      "publisher": "Paper Assets",
+      "version": "1.0.0",
+      "description": "Cover weight card stock, six surfaces.",
+      "category": "Papers and Textures",
+      "file": "https://raw.githubusercontent.com/lashmanRB/procraft-test-store/main/assets/Cardstock-Cover-Stock.assetset",
+      "bytes": 41991717,
+      "sha256": "aac6ece4cc9dd6f91d93d8cae87eb06bd203b635f73da85ca54adb49fd9dcf55"
+    },
+    {
+      "id": "papers.coated-glossy",
+      "kind": "asset pack",
+      "name": "Coated Glossy Stock",
+      "publisher": "Paper Assets",
+      "version": "1.0.0",
+      "description": "Coated glossy stock, modern finish.",
+      "category": "Papers and Textures",
+      "file": "https://raw.githubusercontent.com/lashmanRB/procraft-test-store/main/assets/Coated-Glossy-Stock-Modern.assetset",
+      "bytes": 37004134,
+      "sha256": "2857d4b95d9ccc25443bb6646df236afb842df3c84102f81904acbfa2c16d10d"
+    },
+    {
+      "id": "papers.bfk-rives",
+      "kind": "asset pack",
+      "name": "BFK Rives",
+      "publisher": "Paper Assets",
+      "version": "1.0.0",
+      "description": "Heavy cotton printmaking paper.",
+      "category": "Papers and Textures",
+      "file": "https://raw.githubusercontent.com/lashmanRB/procraft-test-store/main/assets/BFK-Rives.assetset",
+      "bytes": 55124556,
+      "sha256": "877ee96a7f23f5e898679b92bd3e9ce7ad3787a405bb4327f647af3c373269f9"
+    },
+    {
+      "id": "papers.bond",
+      "kind": "asset pack",
+      "name": "Bond Paper",
+      "publisher": "Paper Assets",
+      "version": "1.0.0",
+      "description": "Plain bond paper for clean drafts.",
+      "category": "Papers and Textures",
+      "file": "https://raw.githubusercontent.com/lashmanRB/procraft-test-store/main/assets/Bond-Paper.assetset",
+      "bytes": 53710195,
+      "sha256": "b5c20aeefed49ce9acc2709d95efa8ed4db6eca4142b19ad55dc63c4f9350a74"
+    },
+    {
+      "id": "papers.bristol-smooth",
+      "kind": "asset pack",
+      "name": "Bristol Board Smooth",
+      "publisher": "Paper Assets",
+      "version": "1.0.0",
+      "description": "Smooth Bristol board for pen and marker.",
+      "category": "Papers and Textures",
+      "file": "https://raw.githubusercontent.com/lashmanRB/procraft-test-store/main/assets/Bristol-Board-Smooth.assetset",
+      "bytes": 59160854,
+      "sha256": "df617bb0fa8d2c287829a60249634833604958fc1e49a0da69107f2a4720faa0"
+    },
+    {
+      "id": "papers.cartridge",
+      "kind": "asset pack",
+      "name": "Cartridge Paper",
+      "publisher": "Paper Assets",
+      "version": "1.0.0",
+      "description": "Warm cartridge paper with a light tooth.",
+      "category": "Papers and Textures",
+      "file": "https://raw.githubusercontent.com/lashmanRB/procraft-test-store/main/assets/Cartridge-Paper.assetset",
+      "bytes": 65267649,
+      "sha256": "2c1e4f3f42f354f46b826ac232d266434e1594ed91c482fed8edc0cc84ffeda9"
+    }
+  ]
+}
